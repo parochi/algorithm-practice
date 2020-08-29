@@ -1,15 +1,14 @@
-package triangle
+package problems
 
 import (
 	"fmt"
 )
 
-//Display Triangle upside down
-func Display() {
+//DisplayTriangle Triangle upside down
+func DisplayTriangle() {
 
 	upperBound := 5
 	outerCounter := 0
-
 	for outerCounter <= upperBound {
 		for innerCounter := 0; innerCounter < upperBound; innerCounter++ {
 			if innerCounter >= outerCounter {
