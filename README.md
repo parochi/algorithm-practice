@@ -1,5 +1,5 @@
 
-# Solutions for Programming Questions in Interviews
+# Golang Solutions for Programming Questions in Interviews
 
 * String Anagram
 * Duplicate Characters in String
