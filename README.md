@@ -1,4 +1,13 @@
 
+# Solutions for Programming Questions in Interviews
+
+* String Anagram
+* Duplicate Characters in String
+* Reverse the Given String
+* Display Triangle in Upside Down
+
+### References
+```
 Reference Links
     http://www.interviewquestionsaz.info/2018/12/130-google-interview-questions-with.html
     https://gist.github.com/KWMalik/3734578
@@ -8,3 +17,4 @@ Video Links
 
 Interview Preparation Problems
     https://dev.to/javinpaul/top-20-string-coding-problems-from-programming-job-interviews-493m
+```
