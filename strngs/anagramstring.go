@@ -1,4 +1,4 @@
-package problems
+package strngs
 
 import (
 	"fmt"
