@@ -9,4 +9,4 @@
 * Missing Number in an Array
 * Remove Duplicates from an Array
 
-Feel free to contribute by cloning the repository.
+Feel free to contribute.
