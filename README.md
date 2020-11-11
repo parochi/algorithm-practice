@@ -8,5 +8,14 @@
 * All Permutations of a String
 * Missing Number in an Array
 * Remove Duplicates from an Array
+* Bubble Sort
+* Double Linked List
+* Insertion Sort
+* Quick Sort
+* Selection Sort
+* Sequential Sort
+* Single Linked List
+* String Anagram
+* Triangle of Stars
 
 Feel free to contribute by cloning the repository.
